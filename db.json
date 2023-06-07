@@ -1,5 +1,4 @@
 {
-    
     "books": [
         {
             "_id": "64724d596d7074ed230cb183",
@@ -45,6 +44,7 @@
             "image": [
                 "https://kbimages1-a.akamaihd.net/5addc4c9-fbc1-42d7-a79f-cec7619d4b23/1200/1200/False/the-great-gatsby-a-novel-1.jpg"
             ],
+
             "category": "Modernist",
             "description": "A pioneering novel of stream-of-consciousness narrative.",
             "createdAt": "2023-06-08T09:09:48.876Z"
@@ -253,6 +253,12 @@
             "description": "A story of friendship, betrayal, and redemption in Afghanistan.",
             "createdAt": "2023-06-08T09:09:48.877Z"
         }
+
     ]
     
 }
+
+    
+    
+
+
