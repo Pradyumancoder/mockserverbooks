@@ -1,5 +1,5 @@
 {
-"success": true,
+
 "books": [
 {
 "_id": "64724d596d7074ed230cb17b",
@@ -241,7 +241,7 @@
 "description": "A story of friendship, betrayal, and redemption in Afghanistan.",
 "createdAt": "2023-06-08T10:29:49.544Z"
 }
-],
-"bookCount": 20
+]
+
 
 }
